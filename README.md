@@ -16,8 +16,7 @@
 </strong><span class="pl-c"># Build the app</span>
 <strong><em>npm run electron-build</em></strong></pre>
 
-<p><strong>Author Credit:&nbsp;</strong><em>FireshipJeff Delaney<br /></em><strong>Youtube Video Link:</strong> https://www.youtube.com/watch?v=u_vMChpZMCk </p>
-<p><strong>Full Lesson:&nbsp;</strong><em>https://fireship.io/lessons/desktop-apps-with-electron-and-angular/#run-the-command/ </p>
+<p><strong>Author Credit:&nbsp;</strong><em>Fireship/Jeff Delaney<br /></em><strong>Youtube Video Link:</strong> https://www.youtube.com/watch?v=u_vMChpZMCk <br /><strong>Full Lesson:&nbsp;</strong><em>https://fireship.io/lessons/desktop-apps-with-electron-and-angular/#run-the-command/ </p>
 <p><strong>USER INTERFACE</strong></p>
 <table style="border-collapse: collapse; width: 100%;" border="0">
   <tbody>
