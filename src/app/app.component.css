@@ -1,0 +1,53 @@
+.content {
+  height: 550px;
+  width: auto;
+  text-align: center;
+  padding: 30px;
+  background-color: #F8C471  ;
+}
+
+h1 {
+  text-align: center;
+  -webkit-app-region: drag;
+}
+
+.progress-wrapper {
+  position: relative;
+  //margin: 20px auto;
+  font-size: 20px;
+  display:inline-block;
+
+  .text {
+    position: absolute;
+    line-height: 2em;
+    width: 5em;
+    text-align: center;
+    display: block;
+    color: #53777A;
+    z-index: 2;
+   font-size: 15px;
+  }
+
+}
+
+round-progress {
+  margin: auto;
+  text-align: center;
+}
+
+.controls-wrapper {
+  text-align: center;
+  //margin: auto;
+}
+
+.input {
+  text-align: center;
+  margin: auto;
+  max-width: 200px;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.input-parts {
+    margin-bottom: 20px;
+}
